@@ -1,0 +1,32 @@
+@import '~antd/dist/antd.css';
+
+.App {
+  text-align: center;
+  margin: 100px 0 0;
+}
+
+.input-search {
+  margin-bottom: 50px;
+}
+
+.list-item {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 30px;
+}
+
+.list-item_from {
+  
+}
+
+.list-item_to {
+
+}
+
+.list-item_date {
+
+}
+
+.list-item_how {
+
+}
