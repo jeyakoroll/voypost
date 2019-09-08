@@ -1,6 +1,7 @@
 {
   "name": "voypost",
   "version": "0.1.0",
+  "homepage" : "http://jeyakoroll.github.io/voypost",
   "private": true,
   "dependencies": {
     "antd": "^3.19.2",
