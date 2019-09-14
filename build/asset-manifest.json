@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/voypost/static/css/main.9db02ef5.chunk.css",
+    "main.js": "/voypost/static/js/main.b6e1ba0a.chunk.js",
+    "main.js.map": "/voypost/static/js/main.b6e1ba0a.chunk.js.map",
+    "runtime~main.js": "/voypost/static/js/runtime~main.01fdbd1c.js",
+    "runtime~main.js.map": "/voypost/static/js/runtime~main.01fdbd1c.js.map",
+    "static/css/2.33bbdc9a.chunk.css": "/voypost/static/css/2.33bbdc9a.chunk.css",
+    "static/js/2.b2788c2c.chunk.js": "/voypost/static/js/2.b2788c2c.chunk.js",
+    "static/js/2.b2788c2c.chunk.js.map": "/voypost/static/js/2.b2788c2c.chunk.js.map",
+    "index.html": "/voypost/index.html",
+    "precache-manifest.1e233c5706e2f3fd269cae59ec5497a2.js": "/voypost/precache-manifest.1e233c5706e2f3fd269cae59ec5497a2.js",
+    "service-worker.js": "/voypost/service-worker.js",
+    "static/css/2.33bbdc9a.chunk.css.map": "/voypost/static/css/2.33bbdc9a.chunk.css.map",
+    "static/css/main.9db02ef5.chunk.css.map": "/voypost/static/css/main.9db02ef5.chunk.css.map"
+  }
+}
